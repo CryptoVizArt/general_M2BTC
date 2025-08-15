@@ -1,0 +1,950 @@
+{
+  "Madagascar, Republic of": {
+    "currency_code": "MGA",
+    "yahoo_ticker": "USDMGA=X",
+    "description": "USD/MGA exchange rate",
+    "conversion_available": true
+  },
+  "St. Kitts and Nevis": {
+    "currency_code": "XCD",
+    "yahoo_ticker": "USDXCD=X",
+    "description": "USD/XCD exchange rate",
+    "conversion_available": true
+  },
+  "Bhutan": {
+    "currency_code": "BTN",
+    "yahoo_ticker": "USDBTN=X",
+    "description": "USD/BTN exchange rate",
+    "conversion_available": true
+  },
+  "Serbia, Republic of": {
+    "currency_code": "RSD",
+    "yahoo_ticker": "USDRSD=X",
+    "description": "USD/RSD exchange rate",
+    "conversion_available": true
+  },
+  "Togo": {
+    "currency_code": "XOF",
+    "yahoo_ticker": "USDXOF=X",
+    "description": "USD/XOF exchange rate",
+    "conversion_available": true
+  },
+  "Sudan": {
+    "currency_code": "SDG",
+    "yahoo_ticker": "USDSDG=X",
+    "description": "USD/SDG exchange rate",
+    "conversion_available": true
+  },
+  "Armenia, Republic of": {
+    "currency_code": "AMD",
+    "yahoo_ticker": "USDAMD=X",
+    "description": "USD/AMD exchange rate",
+    "conversion_available": true
+  },
+  "Kuwait": {
+    "currency_code": "KWD",
+    "yahoo_ticker": "USDKWD=X",
+    "description": "USD/KWD exchange rate",
+    "conversion_available": true
+  },
+  "Colombia": {
+    "currency_code": "COP",
+    "yahoo_ticker": "USDCOP=X",
+    "description": "USD/COP exchange rate",
+    "conversion_available": true
+  },
+  "Chad": {
+    "currency_code": "XAF",
+    "yahoo_ticker": "USDXAF=X",
+    "description": "USD/XAF exchange rate",
+    "conversion_available": true
+  },
+  "Iceland": {
+    "currency_code": "ISK",
+    "yahoo_ticker": "USDISK=X",
+    "description": "USD/ISK exchange rate",
+    "conversion_available": true
+  },
+  "Gabon": {
+    "currency_code": "XAF",
+    "yahoo_ticker": "USDXAF=X",
+    "description": "USD/XAF exchange rate",
+    "conversion_available": true
+  },
+  "Eswatini, Kingdom of": {
+    "currency_code": "SZL",
+    "yahoo_ticker": "USDSZL=X",
+    "description": "USD/SZL exchange rate",
+    "conversion_available": true
+  },
+  "Seychelles": {
+    "currency_code": "SCR",
+    "yahoo_ticker": "USDSCR=X",
+    "description": "USD/SCR exchange rate",
+    "conversion_available": true
+  },
+  "Grenada": {
+    "currency_code": "XCD",
+    "yahoo_ticker": "USDXCD=X",
+    "description": "USD/XCD exchange rate",
+    "conversion_available": true
+  },
+  "Suriname": {
+    "currency_code": "SRD",
+    "yahoo_ticker": "USDSRD=X",
+    "description": "USD/SRD exchange rate",
+    "conversion_available": true
+  },
+  "Angola": {
+    "currency_code": "AOA",
+    "yahoo_ticker": "USDAOA=X",
+    "description": "USD/AOA exchange rate",
+    "conversion_available": true
+  },
+  "Sierra Leone": {
+    "currency_code": "SLL",
+    "yahoo_ticker": "USDSLL=X",
+    "description": "USD/SLL exchange rate",
+    "conversion_available": true
+  },
+  "Belize": {
+    "currency_code": "BZD",
+    "yahoo_ticker": "USDBZD=X",
+    "description": "USD/BZD exchange rate",
+    "conversion_available": true
+  },
+  "Oman": {
+    "currency_code": "OMR",
+    "yahoo_ticker": "USDOMR=X",
+    "description": "USD/OMR exchange rate",
+    "conversion_available": true
+  },
+  "Ukraine": {
+    "currency_code": "UAH",
+    "yahoo_ticker": "USDUAH=X",
+    "description": "USD/UAH exchange rate",
+    "conversion_available": true
+  },
+  "Georgia": {
+    "currency_code": "GEL",
+    "yahoo_ticker": "USDGEL=X",
+    "description": "USD/GEL exchange rate",
+    "conversion_available": true
+  },
+  "Tanzania, United Republic of": {
+    "currency_code": "TZS",
+    "yahoo_ticker": "USDTZS=X",
+    "description": "USD/TZS exchange rate",
+    "conversion_available": true
+  },
+  "Jamaica": {
+    "currency_code": "JMD",
+    "yahoo_ticker": "USDJMD=X",
+    "description": "USD/JMD exchange rate",
+    "conversion_available": true
+  },
+  "Botswana": {
+    "currency_code": "BWP",
+    "yahoo_ticker": "USDBWP=X",
+    "description": "USD/BWP exchange rate",
+    "conversion_available": true
+  },
+  "Vanuatu": {
+    "currency_code": "VUV",
+    "yahoo_ticker": "USDVUV=X",
+    "description": "USD/VUV exchange rate",
+    "conversion_available": true
+  },
+  "Nicaragua": {
+    "currency_code": "NIO",
+    "yahoo_ticker": "USDNIO=X",
+    "description": "USD/NIO exchange rate",
+    "conversion_available": true
+  },
+  "St. Vincent and the Grenadines": {
+    "currency_code": "XCD",
+    "yahoo_ticker": "USDXCD=X",
+    "description": "USD/XCD exchange rate",
+    "conversion_available": true
+  },
+  "Eritrea, The State of": {
+    "currency_code": "ERN",
+    "yahoo_ticker": "USDERN=X",
+    "description": "USD/ERN exchange rate",
+    "conversion_available": true
+  },
+  "Paraguay": {
+    "currency_code": "PYG",
+    "yahoo_ticker": "USDPYG=X",
+    "description": "USD/PYG exchange rate",
+    "conversion_available": true
+  },
+  "Bangladesh": {
+    "currency_code": "BDT",
+    "yahoo_ticker": "USDBDT=X",
+    "description": "USD/BDT exchange rate",
+    "conversion_available": true
+  },
+  "Rwanda": {
+    "currency_code": "RWF",
+    "yahoo_ticker": "USDRWF=X",
+    "description": "USD/RWF exchange rate",
+    "conversion_available": true
+  },
+  "Papua New Guinea": {
+    "currency_code": "PGK",
+    "yahoo_ticker": "USDPGK=X",
+    "description": "USD/PGK exchange rate",
+    "conversion_available": true
+  },
+  "Indonesia": {
+    "currency_code": "IDR",
+    "yahoo_ticker": "USDIDR=X",
+    "description": "USD/IDR exchange rate",
+    "conversion_available": true
+  },
+  "Poland, Republic of": {
+    "currency_code": "PLN",
+    "yahoo_ticker": "USDPLN=X",
+    "description": "USD/PLN exchange rate",
+    "conversion_available": true
+  },
+  "Dominican Republic": {
+    "currency_code": "DOP",
+    "yahoo_ticker": "USDDOP=X",
+    "description": "USD/DOP exchange rate",
+    "conversion_available": true
+  },
+  "Antigua and Barbuda": {
+    "currency_code": "XCD",
+    "yahoo_ticker": "USDXCD=X",
+    "description": "USD/XCD exchange rate",
+    "conversion_available": true
+  },
+  "Kenya": {
+    "currency_code": "KES",
+    "yahoo_ticker": "USDKES=X",
+    "description": "USD/KES exchange rate",
+    "conversion_available": true
+  },
+  "Tajikistan, Republic of": {
+    "currency_code": "TJS",
+    "yahoo_ticker": "USDTJS=X",
+    "description": "USD/TJS exchange rate",
+    "conversion_available": true
+  },
+  "St. Lucia": {
+    "currency_code": "XCD",
+    "yahoo_ticker": "USDXCD=X",
+    "description": "USD/XCD exchange rate",
+    "conversion_available": true
+  },
+  "Lesotho, Kingdom of": {
+    "currency_code": "LSL",
+    "yahoo_ticker": "USDLSL=X",
+    "description": "USD/LSL exchange rate",
+    "conversion_available": true
+  },
+  "Guatemala": {
+    "currency_code": "GTQ",
+    "yahoo_ticker": "USDGTQ=X",
+    "description": "USD/GTQ exchange rate",
+    "conversion_available": true
+  },
+  "Kazakhstan, Republic of": {
+    "currency_code": "KZT",
+    "yahoo_ticker": "USDKZT=X",
+    "description": "USD/KZT exchange rate",
+    "conversion_available": true
+  },
+  "Cabo Verde": {
+    "currency_code": "CVE",
+    "yahoo_ticker": "USDCVE=X",
+    "description": "USD/CVE exchange rate",
+    "conversion_available": true
+  },
+  "Trinidad and Tobago": {
+    "currency_code": "TTD",
+    "yahoo_ticker": "USDTTD=X",
+    "description": "USD/TTD exchange rate",
+    "conversion_available": true
+  },
+  "Norway": {
+    "currency_code": "NOK",
+    "yahoo_ticker": "USDNOK=X",
+    "description": "USD/NOK exchange rate",
+    "conversion_available": true
+  },
+  "Costa Rica": {
+    "currency_code": "CRC",
+    "yahoo_ticker": "USDCRC=X",
+    "description": "USD/CRC exchange rate",
+    "conversion_available": true
+  },
+  "Qatar": {
+    "currency_code": "QAR",
+    "yahoo_ticker": "USDQAR=X",
+    "description": "USD/QAR exchange rate",
+    "conversion_available": true
+  },
+  "Türkiye, Republic of": {
+    "currency_code": "TRY",
+    "yahoo_ticker": "USDTRY=X",
+    "description": "USD/TRY exchange rate",
+    "conversion_available": true
+  },
+  "South Africa": {
+    "currency_code": "ZAR",
+    "yahoo_ticker": "USDZAR=X",
+    "description": "USD/ZAR exchange rate",
+    "conversion_available": true
+  },
+  "El Salvador": {
+    "currency_code": "USD",
+    "yahoo_ticker": "N/A (Base Currency)",
+    "description": "US Dollar - Base currency",
+    "conversion_available": true
+  },
+  "Belarus, Republic of": {
+    "currency_code": "BYN",
+    "yahoo_ticker": "USDBYN=X",
+    "description": "USD/BYN exchange rate",
+    "conversion_available": true
+  },
+  "Tonga": {
+    "currency_code": "TOP",
+    "yahoo_ticker": "USDTOP=X",
+    "description": "USD/TOP exchange rate",
+    "conversion_available": true
+  },
+  "Guyana": {
+    "currency_code": "GYD",
+    "yahoo_ticker": "USDGYD=X",
+    "description": "USD/GYD exchange rate",
+    "conversion_available": true
+  },
+  "Syrian Arab Republic": {
+    "currency_code": "SYP",
+    "yahoo_ticker": "USDSYP=X",
+    "description": "USD/SYP exchange rate",
+    "conversion_available": true
+  },
+  "Bulgaria": {
+    "currency_code": "BGN",
+    "yahoo_ticker": "USDBGN=X",
+    "description": "USD/BGN exchange rate",
+    "conversion_available": true
+  },
+  "Congo, Republic of": {
+    "currency_code": "XAF",
+    "yahoo_ticker": "USDXAF=X",
+    "description": "USD/XAF exchange rate",
+    "conversion_available": true
+  },
+  "Malaysia": {
+    "currency_code": "MYR",
+    "yahoo_ticker": "USDMYR=X",
+    "description": "USD/MYR exchange rate",
+    "conversion_available": true
+  },
+  "Mozambique, Republic of": {
+    "currency_code": "MZN",
+    "yahoo_ticker": "USDMZN=X",
+    "description": "USD/MZN exchange rate",
+    "conversion_available": true
+  },
+  "Gambia, The": {
+    "currency_code": "GMD",
+    "yahoo_ticker": "USDGMD=X",
+    "description": "USD/GMD exchange rate",
+    "conversion_available": true
+  },
+  "Afghanistan, Islamic Republic of": {
+    "currency_code": "AFN",
+    "yahoo_ticker": "USDAFN=X",
+    "description": "USD/AFN exchange rate",
+    "conversion_available": true
+  },
+  "Albania": {
+    "currency_code": "ALL",
+    "yahoo_ticker": "USDALL=X",
+    "description": "USD/ALL exchange rate",
+    "conversion_available": true
+  },
+  "Algeria": {
+    "currency_code": "DZD",
+    "yahoo_ticker": "USDDZD=X",
+    "description": "USD/DZD exchange rate",
+    "conversion_available": true
+  },
+  "Anguilla, United Kingdom-British Overseas Territory": {
+    "currency_code": "XCD",
+    "yahoo_ticker": "USDXCD=X",
+    "description": "USD/XCD exchange rate",
+    "conversion_available": true
+  },
+  "Argentina": {
+    "currency_code": "ARS",
+    "yahoo_ticker": "USDARS=X",
+    "description": "USD/ARS exchange rate",
+    "conversion_available": true
+  },
+  "Australia": {
+    "currency_code": "AUD",
+    "yahoo_ticker": "AUDUSD=X",
+    "description": "AUD/USD exchange rate",
+    "conversion_available": true
+  },
+  "Azerbaijan, Republic of": {
+    "currency_code": "AZN",
+    "yahoo_ticker": "USDAZN=X",
+    "description": "USD/AZN exchange rate",
+    "conversion_available": true
+  },
+  "Bahamas, The": {
+    "currency_code": "BSD",
+    "yahoo_ticker": "USDBSD=X",
+    "description": "USD/BSD exchange rate",
+    "conversion_available": true
+  },
+  "Barbados": {
+    "currency_code": "BBD",
+    "yahoo_ticker": "USDBBD=X",
+    "description": "USD/BBD exchange rate",
+    "conversion_available": true
+  },
+  "Benin": {
+    "currency_code": "XOF",
+    "yahoo_ticker": "USDXOF=X",
+    "description": "USD/XOF exchange rate",
+    "conversion_available": true
+  },
+  "Bolivia": {
+    "currency_code": "BOB",
+    "yahoo_ticker": "USDBOB=X",
+    "description": "USD/BOB exchange rate",
+    "conversion_available": true
+  },
+  "Bosnia and Herzegovina": {
+    "currency_code": "BAM",
+    "yahoo_ticker": "USDBAM=X",
+    "description": "USD/BAM exchange rate",
+    "conversion_available": true
+  },
+  "Brazil": {
+    "currency_code": "BRL",
+    "yahoo_ticker": "USDBRL=X",
+    "description": "USD/BRL exchange rate",
+    "conversion_available": true
+  },
+  "Brunei Darussalam": {
+    "currency_code": "BND",
+    "yahoo_ticker": "USDBND=X",
+    "description": "USD/BND exchange rate",
+    "conversion_available": true
+  },
+  "Burkina Faso": {
+    "currency_code": "XOF",
+    "yahoo_ticker": "USDXOF=X",
+    "description": "USD/XOF exchange rate",
+    "conversion_available": true
+  },
+  "Burundi": {
+    "currency_code": "BIF",
+    "yahoo_ticker": "USDBIF=X",
+    "description": "USD/BIF exchange rate",
+    "conversion_available": true
+  },
+  "Cambodia": {
+    "currency_code": "KHR",
+    "yahoo_ticker": "USDKHR=X",
+    "description": "USD/KHR exchange rate",
+    "conversion_available": true
+  },
+  "Cameroon": {
+    "currency_code": "XAF",
+    "yahoo_ticker": "USDXAF=X",
+    "description": "USD/XAF exchange rate",
+    "conversion_available": true
+  },
+  "Canada": {
+    "currency_code": "CAD",
+    "yahoo_ticker": "CADUSD=X",
+    "description": "CAD/USD exchange rate",
+    "conversion_available": true
+  },
+  "Central African Republic": {
+    "currency_code": "XAF",
+    "yahoo_ticker": "USDXAF=X",
+    "description": "USD/XAF exchange rate",
+    "conversion_available": true
+  },
+  "Chile": {
+    "currency_code": "CLP",
+    "yahoo_ticker": "USDCLP=X",
+    "description": "USD/CLP exchange rate",
+    "conversion_available": true
+  },
+  "Comoros, Union of the": {
+    "currency_code": "KMF",
+    "yahoo_ticker": "USDKMF=X",
+    "description": "USD/KMF exchange rate",
+    "conversion_available": true
+  },
+  "Congo, Democratic Republic of the": {
+    "currency_code": "CDF",
+    "yahoo_ticker": "USDCDF=X",
+    "description": "USD/CDF exchange rate",
+    "conversion_available": true
+  },
+  "Croatia, Republic of": {
+    "currency_code": "HRK",
+    "yahoo_ticker": "USDHRK=X",
+    "description": "USD/HRK exchange rate",
+    "conversion_available": true
+  },
+  "Czech Republic": {
+    "currency_code": "CZK",
+    "yahoo_ticker": "USDCZK=X",
+    "description": "USD/CZK exchange rate",
+    "conversion_available": true
+  },
+  "Côte d'Ivoire": {
+    "currency_code": "XOF",
+    "yahoo_ticker": "USDXOF=X",
+    "description": "USD/XOF exchange rate",
+    "conversion_available": true
+  },
+  "Denmark": {
+    "currency_code": "DKK",
+    "yahoo_ticker": "USDDKK=X",
+    "description": "USD/DKK exchange rate",
+    "conversion_available": true
+  },
+  "Djibouti": {
+    "currency_code": "DJF",
+    "yahoo_ticker": "USDDJF=X",
+    "description": "USD/DJF exchange rate",
+    "conversion_available": true
+  },
+  "Dominica": {
+    "currency_code": "XCD",
+    "yahoo_ticker": "USDXCD=X",
+    "description": "USD/XCD exchange rate",
+    "conversion_available": true
+  },
+  "Eastern Caribbean Currency Union (ECCU)": {
+    "currency_code": "XCD",
+    "yahoo_ticker": "USDXCD=X",
+    "description": "USD/XCD exchange rate",
+    "conversion_available": true
+  },
+  "Ecuador": {
+    "currency_code": "USD",
+    "yahoo_ticker": "N/A (Base Currency)",
+    "description": "US Dollar - Base currency",
+    "conversion_available": true
+  },
+  "Egypt, Arab Republic of": {
+    "currency_code": "EGP",
+    "yahoo_ticker": "USDEGP=X",
+    "description": "USD/EGP exchange rate",
+    "conversion_available": true
+  },
+  "Equatorial Guinea, Republic of": {
+    "currency_code": "XAF",
+    "yahoo_ticker": "USDXAF=X",
+    "description": "USD/XAF exchange rate",
+    "conversion_available": true
+  },
+  "Euro Area (EA)": {
+    "currency_code": "EUR",
+    "yahoo_ticker": "EURUSD=X",
+    "description": "EUR/USD exchange rate",
+    "conversion_available": true
+  },
+  "Fiji, Republic of": {
+    "currency_code": "FJD",
+    "yahoo_ticker": "USDFJD=X",
+    "description": "USD/FJD exchange rate",
+    "conversion_available": true
+  },
+  "Ghana": {
+    "currency_code": "GHS",
+    "yahoo_ticker": "USDGHS=X",
+    "description": "USD/GHS exchange rate",
+    "conversion_available": true
+  },
+  "Guinea": {
+    "currency_code": "GNF",
+    "yahoo_ticker": "USDGNF=X",
+    "description": "USD/GNF exchange rate",
+    "conversion_available": true
+  },
+  "Guinea-Bissau": {
+    "currency_code": "XOF",
+    "yahoo_ticker": "USDXOF=X",
+    "description": "USD/XOF exchange rate",
+    "conversion_available": true
+  },
+  "Haiti": {
+    "currency_code": "HTG",
+    "yahoo_ticker": "USDHTG=X",
+    "description": "USD/HTG exchange rate",
+    "conversion_available": true
+  },
+  "Honduras": {
+    "currency_code": "HNL",
+    "yahoo_ticker": "USDHNL=X",
+    "description": "USD/HNL exchange rate",
+    "conversion_available": true
+  },
+  "Hong Kong Special Administrative Region, People's Republic of China": {
+    "currency_code": "HKD",
+    "yahoo_ticker": "USDHKD=X",
+    "description": "USD/HKD exchange rate",
+    "conversion_available": true
+  },
+  "Hungary": {
+    "currency_code": "HUF",
+    "yahoo_ticker": "USDHUF=X",
+    "description": "USD/HUF exchange rate",
+    "conversion_available": true
+  },
+  "Iraq": {
+    "currency_code": "IQD",
+    "yahoo_ticker": "USDIQD=X",
+    "description": "USD/IQD exchange rate",
+    "conversion_available": true
+  },
+  "Israel": {
+    "currency_code": "ILS",
+    "yahoo_ticker": "USDILS=X",
+    "description": "USD/ILS exchange rate",
+    "conversion_available": true
+  },
+  "Japan": {
+    "currency_code": "JPY",
+    "yahoo_ticker": "USDJPY=X",
+    "description": "USD/JPY exchange rate",
+    "conversion_available": true
+  },
+  "Jordan": {
+    "currency_code": "JOD",
+    "yahoo_ticker": "USDJOD=X",
+    "description": "USD/JOD exchange rate",
+    "conversion_available": true
+  },
+  "Korea, Republic of": {
+    "currency_code": "KRW",
+    "yahoo_ticker": "USDKRW=X",
+    "description": "USD/KRW exchange rate",
+    "conversion_available": true
+  },
+  "Kosovo, Republic of": {
+    "currency_code": "EUR",
+    "yahoo_ticker": "EURUSD=X",
+    "description": "EUR/USD exchange rate",
+    "conversion_available": true
+  },
+  "Kyrgyz Republic": {
+    "currency_code": "KGS",
+    "yahoo_ticker": "USDKGS=X",
+    "description": "USD/KGS exchange rate",
+    "conversion_available": true
+  },
+  "Liberia": {
+    "currency_code": "LRD",
+    "yahoo_ticker": "USDLRD=X",
+    "description": "USD/LRD exchange rate",
+    "conversion_available": true
+  },
+  "Libya": {
+    "currency_code": "LYD",
+    "yahoo_ticker": "USDLYD=X",
+    "description": "USD/LYD exchange rate",
+    "conversion_available": true
+  },
+  "Macao Special Administrative Region, People's Republic of China": {
+    "currency_code": "MOP",
+    "yahoo_ticker": "USDMOP=X",
+    "description": "USD/MOP exchange rate",
+    "conversion_available": true
+  },
+  "Malawi": {
+    "currency_code": "MWK",
+    "yahoo_ticker": "USDMWK=X",
+    "description": "USD/MWK exchange rate",
+    "conversion_available": true
+  },
+  "Maldives": {
+    "currency_code": "MVR",
+    "yahoo_ticker": "USDMVR=X",
+    "description": "USD/MVR exchange rate",
+    "conversion_available": true
+  },
+  "Mali": {
+    "currency_code": "XOF",
+    "yahoo_ticker": "USDXOF=X",
+    "description": "USD/XOF exchange rate",
+    "conversion_available": true
+  },
+  "Mauritania, Islamic Republic of": {
+    "currency_code": "MRU",
+    "yahoo_ticker": "USDMRU=X",
+    "description": "USD/MRU exchange rate",
+    "conversion_available": true
+  },
+  "Mauritius": {
+    "currency_code": "MUR",
+    "yahoo_ticker": "USDMUR=X",
+    "description": "USD/MUR exchange rate",
+    "conversion_available": true
+  },
+  "Mexico": {
+    "currency_code": "MXN",
+    "yahoo_ticker": "USDMXN=X",
+    "description": "USD/MXN exchange rate",
+    "conversion_available": true
+  },
+  "Moldova, Republic of": {
+    "currency_code": "MDL",
+    "yahoo_ticker": "USDMDL=X",
+    "description": "USD/MDL exchange rate",
+    "conversion_available": true
+  },
+  "Mongolia": {
+    "currency_code": "MNT",
+    "yahoo_ticker": "USDMNT=X",
+    "description": "USD/MNT exchange rate",
+    "conversion_available": true
+  },
+  "Montenegro": {
+    "currency_code": "EUR",
+    "yahoo_ticker": "EURUSD=X",
+    "description": "EUR/USD exchange rate",
+    "conversion_available": true
+  },
+  "Montserrat, United Kingdom-British Overseas Territory": {
+    "currency_code": "XCD",
+    "yahoo_ticker": "USDXCD=X",
+    "description": "USD/XCD exchange rate",
+    "conversion_available": true
+  },
+  "Morocco": {
+    "currency_code": "MAD",
+    "yahoo_ticker": "USDMAD=X",
+    "description": "USD/MAD exchange rate",
+    "conversion_available": true
+  },
+  "Myanmar": {
+    "currency_code": "MMK",
+    "yahoo_ticker": "USDMMK=X",
+    "description": "USD/MMK exchange rate",
+    "conversion_available": true
+  },
+  "Namibia": {
+    "currency_code": "NAD",
+    "yahoo_ticker": "USDNAD=X",
+    "description": "USD/NAD exchange rate",
+    "conversion_available": true
+  },
+  "Nepal": {
+    "currency_code": "NPR",
+    "yahoo_ticker": "USDNPR=X",
+    "description": "USD/NPR exchange rate",
+    "conversion_available": true
+  },
+  "New Zealand": {
+    "currency_code": "NZD",
+    "yahoo_ticker": "NZDUSD=X",
+    "description": "NZD/USD exchange rate",
+    "conversion_available": true
+  },
+  "Niger": {
+    "currency_code": "XOF",
+    "yahoo_ticker": "USDXOF=X",
+    "description": "USD/XOF exchange rate",
+    "conversion_available": true
+  },
+  "Nigeria": {
+    "currency_code": "NGN",
+    "yahoo_ticker": "USDNGN=X",
+    "description": "USD/NGN exchange rate",
+    "conversion_available": true
+  },
+  "North Macedonia, Republic of": {
+    "currency_code": "MKD",
+    "yahoo_ticker": "USDMKD=X",
+    "description": "USD/MKD exchange rate",
+    "conversion_available": true
+  },
+  "Pakistan": {
+    "currency_code": "PKR",
+    "yahoo_ticker": "USDPKR=X",
+    "description": "USD/PKR exchange rate",
+    "conversion_available": true
+  },
+  "Panama": {
+    "currency_code": "PAB",
+    "yahoo_ticker": "USDPAB=X",
+    "description": "USD/PAB exchange rate",
+    "conversion_available": true
+  },
+  "Peru": {
+    "currency_code": "PEN",
+    "yahoo_ticker": "USDPEN=X",
+    "description": "USD/PEN exchange rate",
+    "conversion_available": true
+  },
+  "Philippines": {
+    "currency_code": "PHP",
+    "yahoo_ticker": "USDPHP=X",
+    "description": "USD/PHP exchange rate",
+    "conversion_available": true
+  },
+  "Romania": {
+    "currency_code": "RON",
+    "yahoo_ticker": "USDRON=X",
+    "description": "USD/RON exchange rate",
+    "conversion_available": true
+  },
+  "Russian Federation": {
+    "currency_code": "RUB",
+    "yahoo_ticker": "USDRUB=X",
+    "description": "USD/RUB exchange rate",
+    "conversion_available": true
+  },
+  "Samoa": {
+    "currency_code": "WST",
+    "yahoo_ticker": "USDWST=X",
+    "description": "USD/WST exchange rate",
+    "conversion_available": true
+  },
+  "San Marino, Republic of": {
+    "currency_code": "EUR",
+    "yahoo_ticker": "EURUSD=X",
+    "description": "EUR/USD exchange rate",
+    "conversion_available": true
+  },
+  "Senegal": {
+    "currency_code": "XOF",
+    "yahoo_ticker": "USDXOF=X",
+    "description": "USD/XOF exchange rate",
+    "conversion_available": true
+  },
+  "Solomon Islands": {
+    "currency_code": "SBD",
+    "yahoo_ticker": "USDSBD=X",
+    "description": "USD/SBD exchange rate",
+    "conversion_available": true
+  },
+  "Somalia": {
+    "currency_code": "SOS",
+    "yahoo_ticker": "USDSOS=X",
+    "description": "USD/SOS exchange rate",
+    "conversion_available": true
+  },
+  "South Sudan, Republic of": {
+    "currency_code": "SSP",
+    "yahoo_ticker": "USDSSP=X",
+    "description": "USD/SSP exchange rate",
+    "conversion_available": true
+  },
+  "Sri Lanka": {
+    "currency_code": "LKR",
+    "yahoo_ticker": "USDLKR=X",
+    "description": "USD/LKR exchange rate",
+    "conversion_available": true
+  },
+  "Sweden": {
+    "currency_code": "SEK",
+    "yahoo_ticker": "USDSEK=X",
+    "description": "USD/SEK exchange rate",
+    "conversion_available": true
+  },
+  "São Tomé and Príncipe, Democratic Republic of": {
+    "currency_code": "STN",
+    "yahoo_ticker": "USDSTN=X",
+    "description": "USD/STN exchange rate",
+    "conversion_available": true
+  },
+  "Thailand": {
+    "currency_code": "THB",
+    "yahoo_ticker": "USDTHB=X",
+    "description": "USD/THB exchange rate",
+    "conversion_available": true
+  },
+  "Timor-Leste, Democratic Republic of": {
+    "currency_code": "USD",
+    "yahoo_ticker": "N/A (Base Currency)",
+    "description": "US Dollar - Base currency",
+    "conversion_available": true
+  },
+  "Tunisia": {
+    "currency_code": "TND",
+    "yahoo_ticker": "USDTND=X",
+    "description": "USD/TND exchange rate",
+    "conversion_available": true
+  },
+  "Uganda": {
+    "currency_code": "UGX",
+    "yahoo_ticker": "USDUGX=X",
+    "description": "USD/UGX exchange rate",
+    "conversion_available": true
+  },
+  "United Arab Emirates": {
+    "currency_code": "AED",
+    "yahoo_ticker": "USDAED=X",
+    "description": "USD/AED exchange rate",
+    "conversion_available": true
+  },
+  "United States": {
+    "currency_code": "USD",
+    "yahoo_ticker": "N/A (Base Currency)",
+    "description": "US Dollar - Base currency",
+    "conversion_available": true
+  },
+  "Uruguay": {
+    "currency_code": "UYU",
+    "yahoo_ticker": "USDUYU=X",
+    "description": "USD/UYU exchange rate",
+    "conversion_available": true
+  },
+  "Uzbekistan, Republic of": {
+    "currency_code": "UZS",
+    "yahoo_ticker": "USDUZS=X",
+    "description": "USD/UZS exchange rate",
+    "conversion_available": true
+  },
+  "Venezuela, República Bolivariana de": {
+    "currency_code": "VES",
+    "yahoo_ticker": "USDVES=X",
+    "description": "USD/VES exchange rate",
+    "conversion_available": true
+  },
+  "West African Economic and Monetary Union (WAEMU)": {
+    "currency_code": "XOF",
+    "yahoo_ticker": "USDXOF=X",
+    "description": "USD/XOF exchange rate",
+    "conversion_available": true
+  },
+  "West Bank and Gaza": {
+    "currency_code": "ILS",
+    "yahoo_ticker": "USDILS=X",
+    "description": "USD/ILS exchange rate",
+    "conversion_available": true
+  },
+  "Zambia": {
+    "currency_code": "ZMW",
+    "yahoo_ticker": "USDZMW=X",
+    "description": "USD/ZMW exchange rate",
+    "conversion_available": true
+  },
+  "Zimbabwe": {
+    "currency_code": "ZWL",
+    "yahoo_ticker": "USDZWL=X",
+    "description": "USD/ZWL exchange rate",
+    "conversion_available": false
+  }
+}
